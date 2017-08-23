@@ -1,0 +1,25 @@
+﻿生成启动时间为 2017/8/23 12:39:00。
+     1>项目“C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Queue\Queue.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\Queue.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files\MATLAB\R2012a\extern\include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt demo.cpp Queue.cpp
+         Queue.cpp
+         demo.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Debug\Queue.exe" /NOLOGO /LIBPATH:"C:\Program Files\MATLAB\R2012a\extern\lib\win64" /MANIFEST /ManifestFile:"Debug\Queue.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Debug\Queue.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Debug\Queue.lib" /MACHINE:X86 Debug\demo.obj
+         Debug\Queue.obj
+         Queue.vcxproj -> C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Debug\Queue.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Debug\Queue.exe;#1" /manifest Debug\Queue.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Queue.unsuccessfulbuild”。
+         正在对“Debug\Queue.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\201707PrepareForInterview\C++\C++\Queue\Queue\Queue.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.98
